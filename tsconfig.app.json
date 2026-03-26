@@ -27,7 +27,7 @@
     "erasableSyntaxOnly": true,
     "noFallthroughCasesInSwitch": true,
     "noUncheckedSideEffectImports": true,
-    "types": [] // ← Agregar esta línea para excluir tipos automáticos
+    "types": []
   },
   "include": [
     "src"
